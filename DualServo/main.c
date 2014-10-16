@@ -1,4 +1,9 @@
-
+/*
+ * main.c
+ *
+ *  Created on: Sep 7, 2014
+ *      Author: kevinu
+ */
 
 
 #include <avr/io.h>
